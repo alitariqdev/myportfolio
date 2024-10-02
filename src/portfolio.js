@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Ali Tariq",
-  title: "Hi all, I'm Ali",
+  title: "Hi all, I'm Ali Tariq",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web  applications with Python / Reactjs / Flask / Django  and some other cool libraries and frameworks."
   ),
@@ -300,6 +300,19 @@ const achievementSection = {
       imageAlt: "LAB-LAB-AI Logo",
       footerLink: [
         { name: "Certification", url: "https://lablab.ai/u/@alitarqidev/clxuetnvw0023g91cdy6cza97" },
+        // {
+        //   name: "Final Project",
+        //   url: "https://pakistan-olx-1.firebaseapp.com/"
+        // }
+      ]
+    },
+    {
+      title: "Hack The Loop",
+      // subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/lablab-logo.webp"),
+      imageAlt: "LAB-LAB-AI Logo",
+      footerLink: [
+        { name: "Certification", url: " https://lablab.ai/u/@alitarqidev/cm1p1q1rl000ruah720fg8ek9" },
         // {
         //   name: "Final Project",
         //   url: "https://pakistan-olx-1.firebaseapp.com/"
